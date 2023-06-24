@@ -1,4 +1,18 @@
-### Hi there 👋
+<h1 align='center'>
+  Hey! 👋 I'm Gerald
+</h1>
+
+<p align='center'>
+  Rising sophomore studying CS @ UofT
+</p>
+
+<h2 align='center'>
+  Interests
+</h2>
+
+<p>
+  
+</p>
 
 <!--
 **geraldyywang/geraldyywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
