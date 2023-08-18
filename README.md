@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/X8pjFFHcL7WFc7bQMY/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/X8pjFFHcL7WFc7bQMY/giphy.gif" width="200"/>
 </div>
 <h1>
   👋 Hi! I'm Gerald
