@@ -1,7 +1,7 @@
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/X8pjFFHcL7WFc7bQMY/giphy.gif" width="200"/>
 </div>
-<h1 align='center'>
+<h1>
   👋 Hi! I'm Gerald
 </h1>
 
