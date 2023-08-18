@@ -12,11 +12,11 @@
   <li>🎓 Sophomore at the University of Toronto pursuing Computer Science Specialist (Major)</li>
   <li>✨ Excited about software engineering, algorithms, and machine learning</li>
   <li>🌱 Currently exploring deep learning in Python</li>
-  <li>⚡ Working on passion projects, fencing, or dancing in free time!</li>
+  <li>⚡ Working on passion projects💻, fencing🤺, or dancing🕺 in free time!</li>
 </ul>
 
 <h3>
-  Tools and Tech:
+  🖥️ Tools and Tech:
 </h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -34,9 +34,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
 
+<h3>
+  📈 My Stats:
+</h3>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geraldyywang&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
 <!--
 **geraldyywang/geraldyywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Gerald's GitHub stats](https://github-readme-stats-omega-seven-94.vercel.app//api?username=geraldyywang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldyywang&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
