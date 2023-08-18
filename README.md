@@ -1,20 +1,27 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/X8pjFFHcL7WFc7bQMY/giphy.gif" width="200"/>
+</div>
 <h1 align='center'>
-  Hey! 👋 I'm Gerald
+  👋 Hi! I'm Gerald
 </h1>
 
-<p align='center'>
-  Rising sophomore studying CS @ UofT
-</p>
+<h3>
+  👨‍💻 About Me:
+</h3>
+<ul>
+  <li>Sophomore at the University of Toronto pursuing Computer Science Specialist (Major)</li>
+  <li>Excited about software engineering, algorithms, and machine learning</li>
+  <li>Currently exploring deep learning in Python</li>
+  <li>Working on passion projects, fencing, or dancing in free time!</li>
+</ul>
 
-<h2 align='center'>
-  Interests
-</h2>
-
-<p>
+<h3>
+  Tools and Tech:
+</h3>
+<div>
   
-</p>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geraldyywang&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **geraldyywang/geraldyywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
