@@ -41,10 +41,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geraldyywang&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
+
+
+
 <!--
 **geraldyywang/geraldyywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Gerald's GitHub stats](https://github-readme-stats-omega-seven-94.vercel.app//api?username=geraldyywang)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geraldyywang&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://visitcount.itsvg.in/api?id=geraldyywang&label=Profile%20Views&color=4&icon=0&pretty=true)](https://visitcount.itsvg.in)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
