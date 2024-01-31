@@ -9,7 +9,7 @@
   👨‍💻 About Me:
 </h3>
 <ul>
-  <li>🎓 Sophomore at the University of Toronto pursuing Computer Science Specialist (Major)</li>
+  <li>🎓 Sophomore at the University of Toronto pursuing Computer Science Specialist</li>
   <li>✨ Excited about software engineering, algorithms, and machine learning</li>
   <li>🌱 Currently exploring deep learning in Python</li>
   <li>⚡ Working on passion projects💻, fencing🤺, or dancing🕺 in free time!</li>
