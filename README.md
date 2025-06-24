@@ -5,25 +5,7 @@
   👋 Hi! I'm Gerald
 </h1>
 
-<h3>
-  👨‍💻 About Me:
-</h3>
-<ul>
-  <li>🎓 Junior at the University of Toronto pursuing Computer Science Specialist</li>
-  <li>✨ Excited about software engineering, algorithms, and machine learning</li>
-  <li>🌱 Currently exploring deep learning in Python</li>
-  <li>⚡ Working on passion projects💻, fencing🤺, or dancing🕺 in free time!</li>
-</ul>
-
-<h3>
-  📈 My Stats:
-</h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=geraldyywang&theme=dark&background=000000)](https://git.io/streak-stats)
-
-
-
-
+<h4>⚡ Working on passion projects💻, fencing🤺, or dancing🕺 in free time!</h4>
 
 <!--
 **geraldyywang/geraldyywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
