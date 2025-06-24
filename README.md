@@ -5,7 +5,7 @@
   👋 Hi! I'm Gerald
 </h1>
 
-<h4>⚡ Working on passion projects💻, fencing🤺, or dancing🕺 in free time!</h4>
+<p>⚡ Working on passion projects💻, fencing🤺, or dancing🕺 in free time!</p>
 
 <!--
 **geraldyywang/geraldyywang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
